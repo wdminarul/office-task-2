@@ -1,0 +1,33 @@
+/* main css style  */
+.factory-main-risk-section {
+  width: 90%;
+  margin: 30px auto;
+  font-size: 14px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 5px 5px 5px 5px;
+}
+
+table .text-bold {
+  font-weight: bold;
+}
+
+table .text-middle {
+  text-align: center;
+}
+
+table .text-right {
+  text-align: right;
+}
+
+.borderLess {
+  border: none;
+}
