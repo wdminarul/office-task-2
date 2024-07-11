@@ -1,6 +1,11 @@
 /* main css style  */
-.factory-main-risk-section {
+.main-section-table {
   width: 90%;
+  margin-left: 5%;
+}
+
+.factory-main-risk-section {
+  width: 100%;
   margin: 30px auto;
   font-size: 14px;
 }
@@ -30,4 +35,21 @@ table .text-right {
 
 .borderLess {
   border: none;
+}
+
+/* progress risks section style  */
+.risk-progress {
+  width: 60%;
+}
+
+.risk-progress table tr .big-box {
+  width: 30%;
+}
+
+.risk-progress table tr td {
+  padding: 10px;
+}
+
+.bg-bold {
+  background-color: #DAE2EE;
 }
